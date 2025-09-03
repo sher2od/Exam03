@@ -125,7 +125,7 @@ print(acc.get_balance())
 
 ---
 
-### 7. Classmethod & Staticmethod (updated)
+### 7. Classmethod & Staticmethod
 
 **Task:** `StringTools` classida:
 
@@ -323,7 +323,7 @@ todo.show_tasks()
 
 ---
 
-### 16. Bank Account – Inheritance (updated & clear)
+### 16. Bank Account – Inheritance
 
 **Task:** `Account` nomli asosiy class yozing.
 
