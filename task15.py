@@ -1,6 +1,6 @@
 class TodoList:
     def __init__(self):
-        self.tasks = []   # vazifalar ro‘yxati
+        self.tasks = []   #  ro‘yxat\
 
     def add_task(self, task):
         self.tasks.append(task)
@@ -10,7 +10,6 @@ class TodoList:
             print(f"{i}. {task}")
 
 
-# Test
 todo = TodoList()
 todo.add_task("Do homework")
 todo.add_task("Clean room")
